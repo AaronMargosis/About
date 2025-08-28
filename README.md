@@ -7,7 +7,7 @@ Aaron Margosis is a world-class Windows nerd/expert, focusing primarily on cyber
 * Primary member of the Microsoft team that built Microsoft's security configuration guidance, and created the tools that ship with Microsoft's 
 [Security Compliance Toolkit](https://www.microsoft.com/download/details.aspx?id=55319) (LGPO.exe, Policy Analyzer, and SetObjectSecurity).
 
-* Developed the original "AaronLocker" concept, and now its new successor (AaronLockerV2).
+* Developed the original ["AaronLocker"](https://github.com/microsoft/AaronLocker) concept, and now its new successor ([AaronLockerV2](https://github.com/AaronMargosis/AaronLockerV2)).
 
 * 21 years at Microsoft, 5+ (so far) at Tanium.
 
@@ -15,11 +15,11 @@ Aaron Margosis is a world-class Windows nerd/expert, focusing primarily on cyber
 * The [**SysNocturnals Tools**](https://github.com/AaronMargosis/Aaron-Margosis-SysNocturnals-Tools) for Windows<br>
 _A set of troubleshooting, diagnostic, and information utilities (and useful scripts) for Windows_
 
-* The [**SysNocturnals Extras**](https://github.com/AaronMargosis/Aaron-Margosis-SysNocturnals-Extras)<br>
-_Restoring some of my older tools to the web: LUA Buglight, App Install Recorder, and IEZoneAnalyzer._
-
 * [**AaronLockerV2**](https://github.com/AaronMargosis/AaronLockerV2)<br>
 _Robust and practical allowlisting rules for Windows using AppLocker, Office macro controls, and some WDAC to close a couple of known gaps._
+
+* The [**SysNocturnals Extras**](https://github.com/AaronMargosis/Aaron-Margosis-SysNocturnals-Extras)<br>
+_Restoring some of my older tools to the web: LUA Buglight, App Install Recorder, and IEZoneAnalyzer._
 
 ## Recent presentations
 
@@ -40,6 +40,20 @@ Mar 22, 2021
 * [**Clarifying CVE-2020–1472 (“Zerologon”)**](https://aaron-margosis.medium.com/clarifying-cve-2020-1472-zerologon-d42d1d14849e)<br>
 _There’s been confusion regarding Microsoft’s patch for CVE-2020–1472 (mitigating the so-called “Zerologon” attack), what you need to do..._<br>
 Oct 8, 2020
+
+## Some older "classics"
+
+* [**Sticking with Well-Known and Proven Solutions**](https://learn.microsoft.com/en-us/archive/blogs/fdcc/sticking-with-well-known-and-proven-solutions)<br>
+Oct 5, 2010
+
+* [**Unintended Consequences of Security Lockdowns**](https://www.youtube.com/watch?v=IL1-X05cZak)<br>
+from TechEd North America 2011
+
+* [**AaronLocker** (original PowerShell-based version)](https://github.com/microsoft/AaronLocker)<br>
+(with WDAC parts later added by others at Microsoft)
+
+* [**My old "Non-Admin, App-Compat and Sysinternals Weblog"**](https://learn.microsoft.com/en-us/archive/blogs/aaron_margosis/)<br>
+From 2004-2019
 
 ## Recent non-technical writing
 
