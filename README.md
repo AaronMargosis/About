@@ -48,6 +48,7 @@ Oct 8, 2020
 ## Some older "classics"
 
 * [**Sticking with Well-Known and Proven Solutions**](https://learn.microsoft.com/en-us/archive/blogs/fdcc/sticking-with-well-known-and-proven-solutions)<br>
+_Oft-referenced and highly regarded. [@SwiftOnSecurity](https://x.com/SwiftOnSecurity) said, ["It has shaped everything about what I do."](https://x.com/SwiftOnSecurity/status/1264410690397315074)_<br>
 Oct 5, 2010
 
 * [**Unintended Consequences of Security Lockdowns**](https://www.youtube.com/watch?v=IL1-X05cZak)<br>
