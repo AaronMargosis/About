@@ -29,6 +29,10 @@ Oct 21, 2024
 
 ## Recent technical writing
 
+* [**Corrections to Microsoft documentation about the Registry Policy (registry.pol) File Format**](https://aaron-margosis.medium.com/corrections-to-microsoft-documentation-about-the-registry-policy-file-format-f6cb0caa9a80)<br>
+_Corrections and clarifications regarding the registry.pol file format_<br>
+Aug 28, 2025
+
 * [**Enable Certificate Padding Check: REG_SZ or REG_DWORD?**](https://aaron-margosis.medium.com/enable-certificate-padding-check-reg-sz-or-reg-dword-675603f0790b)<br>
 _Does the mitigation for CVE-2013–3900 require a REG_SZ or a REG_DWORD? Answer: either will work, but REG_DWORD is better._<br>
 Dec 23, 2024
